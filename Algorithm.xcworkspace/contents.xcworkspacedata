@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:ReplaceSpaceInString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:FindInMatrix.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:FindSameElementInArray.cpp">
+   </FileRef>
+   <FileRef
       location = "group:Cumulation1ToN.cpp">
    </FileRef>
    <FileRef
